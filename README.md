@@ -102,7 +102,7 @@ Rocket.Chat is an open source project and we are very happy to accept community 
 
 # 💼 Become a Rocketeer
 
-We're hiring developers, support people, and product managers all the time. Check out our [jobs page](https://rocket.chat/jobs).
+We're continually hiring developers, support staff, and product managers. Check out our [jobs page](https://rocket.chat/jobs).
 
 # 🗞️ Get the Latest News
 
