@@ -42,7 +42,7 @@ For more information please [follow this link](https://www.rocket.chat/hosting)
 
 # 📖 Docs for Developers, Admins and Users
 
-Visit our official [User Documentation](https://docs.rocket.chat/) and [Developer Docs](https://developer.rocket.chat/docs) before sending questions.
+Visit our official [User Documentation](https://docs.rocket.chat/) and [Developer Docs](https://developer.rocket.chat/docs) before submitting questions.
 
 # 🛠️ Local Development
 
@@ -97,7 +97,7 @@ Join [#support](https://open.rocket.chat/channel/support) and [#general](https:/
 
 # 👥 Contributions
 
-Rocket.Chat is an open source project and we are very happy to accept community contributions. Refer to the [Modes of contribution guide](https://developer.rocket.chat/contribute-to-rocket.chat/ways-to-contribute) for more details.
+Rocket.Chat is an open-source project, and we are very happy to accept community contributions. Refer to the [Modes of contribution guide](https://developer.rocket.chat/contribute-to-rocket.chat/ways-to-contribute) for more details.
 
 
 # 💼 Become a Rocketeer
